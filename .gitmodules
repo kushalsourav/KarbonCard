@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/kushalsourav/frontend-Karbon.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kushalsourav/backend-Karbon
